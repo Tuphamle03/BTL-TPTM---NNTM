@@ -1,4 +1,5 @@
 THÙNG RÁC THÔNG MINH GIÁM SÁT MỨC CHỨA
+
 📝Thùng rác thông minh giám sát mức chứa là thiết bị ứng dụng cảm biến và kết nối không dây để theo dõi mức đầy của rác theo thời gian thực. Hệ thống giúp cảnh báo khi rác gần đầy, hỗ trợ tối ưu hóa công tác thu gom, tiết kiệm chi phí và góp phần xây dựng đô thị thông minh, sạch đẹp.
 
 🧠*Chức năng thùng rác thông minh:
